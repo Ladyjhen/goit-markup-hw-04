@@ -358,11 +358,13 @@ img {
 .below {
   background-color: var(--NAVY-BLUE, #2e2f42);
   padding: 100px 0;
+  align-items: baseline;
 }
 .container-foot {
   justify-content: center;
   display: flex;
   margin-right: 544px;
+  align-items: baseline;
 }
 .footer-container {
   margin-right: 120px;
